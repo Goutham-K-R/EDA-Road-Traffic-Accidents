@@ -98,11 +98,3 @@ The dataset contains information about road traffic accidents in Addis Ababa fro
 - Submit the pull request for review.
 
 ---
-
-## **Tips for Success**
-1. **Comment Your Code:** Explain what each section of code does to improve readability.
-2. **Structure:** Keep your project organized, e.g., separate directories for raw data, processed data, and scripts.
-3. **Documentation:** Document findings and methods in a markdown file or report.
-4. **Commit Often:** Make small, incremental commits with meaningful messages.
-
----
